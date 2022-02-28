@@ -1,0 +1,1 @@
+This is the readme file. This task was done using the vagrant virtual environment manager along with the virtual box, creating a linux emulated os.
